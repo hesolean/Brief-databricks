@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+
+# Databricks
+*.dbc
+*.dbc-meta
+*.dbc_export/
+*.dbx/
+databricks-config.json
+workspace/
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
